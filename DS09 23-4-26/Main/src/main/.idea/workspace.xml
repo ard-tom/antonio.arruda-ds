@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c420ef7a-5485-4202-9ad3-2f3c00c005b1" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../../../../DS07 2-4-26/Principal.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../DS07 2-4-26/Principal.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../DS08 23-4-26/Main/build.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../DS08 23-4-26/Main/build.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../DS08 23-4-26/Main/manifest.mf" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../DS08 23-4-26/Main/manifest.mf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../DS08 23-4-26/Main/nbproject/build-impl.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../DS08 23-4-26/Main/nbproject/build-impl.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../DS08 23-4-26/Main/nbproject/genfiles.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../DS08 23-4-26/Main/nbproject/genfiles.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../DS08 23-4-26/Main/nbproject/private/private.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../DS08 23-4-26/Main/nbproject/private/private.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../DS08 23-4-26/Main/nbproject/project.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../DS08 23-4-26/Main/nbproject/project.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../DS08 23-4-26/Main/nbproject/project.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../DS08 23-4-26/Main/nbproject/project.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../DS08 23-4-26/Main/src/main/Casa.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../DS08 23-4-26/Main/src/main/Casa.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../DS08 23-4-26/Main/src/main/ExemploHeranca.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../DS08 23-4-26/Main/src/main/ExemploHeranca.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../DS08 23-4-26/Main/src/main/Imovel.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../DS08 23-4-26/Main/src/main/Imovel.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../../../.idea/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../DS09 23-4-26.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../DS09 23-4-26.iml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../../.." />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 2
+}]]></component>
+  <component name="ProjectId" id="3EMbgingRskIiopH9OsQv6fIvGa" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "/media/tom/USB DRIVE/Camargo/2DB/DS/DS11 7-5/DS11 7-5"
+  }
+}]]></component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-30f59d01ecdd-2fc7cc6b9a17-intellij.indexing.shared.core-IU-253.30387.90" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c420ef7a-5485-4202-9ad3-2f3c00c005b1" name="Changes" comment="" />
+      <created>1779991499174</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1779991499174</updated>
+    </task>
+    <servers />
+  </component>
+</project>
