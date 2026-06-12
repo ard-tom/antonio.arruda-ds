@@ -1,0 +1,1 @@
+// Maioria dos commits foram feitos no dia 28-5 porque eu fiz um commit na conta de outra pessoa acidentalmente e não consegui desfazer-lo. Como resultado de uma frustração, eu recriei o repositório do 0 e tive que refazer os commits.
