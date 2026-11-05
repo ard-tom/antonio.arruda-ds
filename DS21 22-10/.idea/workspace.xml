@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="be07cce2-15d4-4fe8-98dd-8ba13b48333a" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../DS16 20-8/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../DS16 20-8/.idea/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DS16 20-8/.idea/DS16 20-8.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../DS16 20-8/.idea/DS16 20-8.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DS16 20-8/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../DS16 20-8/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DS16 20-8/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../DS16 20-8/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DS16 20-8/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../DS16 20-8/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DS18 1-10/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../DS18 1-10/.idea/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DS18 1-10/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../DS18 1-10/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DS18 1-10/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../DS18 1-10/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DS18 1-10/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../DS18 1-10/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DS18 1-10/DS 18-10-26.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../DS18 1-10/DS 18-10-26.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DS18 1-10/src/excecao1.java" beforeDir="false" afterPath="$PROJECT_DIR$/../DS18 1-10/src/excecao1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DS19 1-10/DS 1-10/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../DS19 1-10/DS 1-10/.idea/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DS19 1-10/DS 1-10/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../DS19 1-10/DS 1-10/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DS19 1-10/DS 1-10/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../DS19 1-10/DS 1-10/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DS19 1-10/DS 1-10/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../DS19 1-10/DS 1-10/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DS19 1-10/DS 1-10/DS 1-10.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../DS19 1-10/DS 1-10/DS 1-10.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DS19 1-10/DS 1-10/src/illegalargumentexception2.java" beforeDir="false" afterPath="$PROJECT_DIR$/../DS19 1-10/DS 1-10/src/illegalargumentexception2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DS19 1-10/DS 1-10/src/saldoinsuficienteexception.java" beforeDir="false" afterPath="$PROJECT_DIR$/../DS19 1-10/DS 1-10/src/saldoinsuficienteexception.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 0,
+  &quot;fromUser&quot;: false
+}</component>
+  <component name="ProjectId" id="3LHvz1jFhENJG4lTvVbD9JHJrhQ" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.ConexãoBancoDeDados2PREP.executor": "Run",
+    "Application.Main.executor": "Run",
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
+    "codeWithMe.voiceChat.enabledByDefault": "false",
+    "git-widget-placeholder": "main",
+    "ignore.virus.scanning.warn.message": "true",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "/media/ard/USB DRIVE/Camargo/2DB/DS/DS21 22-10",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2"
+  }
+}]]></component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-30f59d01ecdd-37e91769500f-intellij.indexing.shared.core-IU-261.25134.95" />
+        <option value="bundled-js-predefined-d6986cc7102b-31caf2ab9e3c-JavaScript-IU-261.25134.95" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="be07cce2-15d4-4fe8-98dd-8ba13b48333a" name="Changes" comment="" />
+      <created>1793124072360</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1793124072360</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
